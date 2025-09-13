@@ -1,0 +1,15 @@
+.logo icon {
+    height: 75px;
+    width: 75px;
+    background-color: gray;
+    border-radius: 50%;
+    background-image: url(https://mail.snapy.co.id/gambar/artikel/situs-gambar-gratis.jpg);
+    background-size: cover;
+}
+
+.main-header{
+    display: flex
+;
+    justify-content: space-between;
+    align-items: center;
+}
